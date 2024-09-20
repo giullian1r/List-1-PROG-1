@@ -1,2 +1,2 @@
 # Programming 1 Exercises
-Este repositório contém os exercícios desenvolvidos durante a disciplina de Programação 1 do curso de Ciência da Computação. Todos os códigos foram implementados em C, abordando conceitos, como estruturas de controle, funções, arrays, ponteiros, e outros.
+This repository contains the exercises developed during the Programming 1 course in the Computer Science degree. All the code is written in C, covering programming concepts such as control structures, functions, arrays, pointers, and more.
