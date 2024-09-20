@@ -9,15 +9,13 @@
 int main(){
   int inteiros[200];
   int tam;
-  int elementos = 0;
 
   printf("digite o tamanho do vetor: ");
   scanf("%d", &tam);
 
   for(int i= 0; i < tam; i++){
     printf("digite um numero: \n");
-    scanf("%d", &inteiros[elementos]);
-    elementos++;
+    scanf("%d", &inteiros[i]);
   }
 
   //print
